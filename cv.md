@@ -37,7 +37,6 @@ function likes(names) {
   }  
 }
 ```
-
 ## Education
 * **11.2024 - ...**
 RS School: JavaScript/Front-end
