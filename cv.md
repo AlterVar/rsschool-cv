@@ -9,7 +9,7 @@ Age: 27
 * Email: alexandra.k.w@yandex.ru
 
 ## About myself
-Currently spending all of my free time to learn new things about web development as it is my top priority. Love working in a team and be a part of something bigger then myself. Plan to become an independant, in terms of skills in problem solving, highly competent developer. Hope to participate in interesting projects, implement wonderful designs and meet new people.
+Currently spending all of my free time to learn new things about web development as it is my top priority. Love working in a team and be a part of something bigger then myself. Plan to become an independent, in terms of skills in problem solving, highly competent developer. Hope to participate in interesting projects, implement wonderful designs and meet new people.
 
 ## Skills
 * HTML, CSS, JavaScript
@@ -45,7 +45,7 @@ ITLogia: Frontend-developer
 
 ## Experience
 <!-- Needs to be updated -->
-Waiting for offers to gain some commercial experiense.
+Waiting for offers to gain some commercial experience.
 
 
 Pet-projects can be found here:  
@@ -53,6 +53,6 @@ Pet-projects can be found here:
 [Simple Angular SPA](https://github.com/AlterVar/Tea-angular)
 
 ## Languages
-* Russion - native
+* Russian - native
 * English - about B2. Have a bachelor degree in Translation & Interpreting but have not practiced much for two last years. 
-* Chinese, Japaneese - beginner
+* Chinese, Japanese - beginner
