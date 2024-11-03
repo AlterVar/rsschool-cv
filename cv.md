@@ -1,5 +1,5 @@
 ## Personal Info
-Full name: Alexandra Kolpakova
+Full name: Alexandra Kolpakova  
 Age: 27
 
 ## Contact Info
@@ -21,20 +21,22 @@ Currently spending all of my free time to learn new things about web development
 
 ## Code example
 ### Codewars 6kyu
-`function likes(names) {
-  switch(names.length) {
-    case 0:
-      return 'no one likes this';
-    case 1:
-      return `${names[0]} likes this`;
-    case 2:
-      return `${names[0]} and ${names[1]} like this`;
-    case 3:
-      return `${names[0]}, ${names[1]} and ${names[2]} like this`;
-    default:
-      return `${names[0]}, ${names[1]} and ${names.length - 2} others like this`;
-  }
-}`
+```
+function likes(names) {  
+  switch(names.length) {  
+    case 0:  
+      return 'no one likes this';  
+    case 1:  
+      return `${names[0]} likes this`;  
+    case 2:  
+      return `${names[0]} and ${names[1]} like this`;  
+    case 3:  
+      return `${names[0]}, ${names[1]} and ${names[2]} like this`;  
+    default:  
+      return `${names[0]}, ${names[1]} and ${names.length - 2} others like this`;  
+  }  
+}
+```
 
 ## Education
 * **11.2024 - ...**
@@ -44,9 +46,11 @@ ITLogia: Frontend-developer
 
 ## Experience
 <!-- Needs to be updated -->
-Waiting for offers to gain some commercial experiense. 
-Pet-projects can be found here:
-[Building-company: HTML, CSS, little JS](https://github.com/AlterVar/building-company)
+Waiting for offers to gain some commercial experiense.
+
+
+Pet-projects can be found here:  
+[Building-company: HTML, CSS, little JS](https://github.com/AlterVar/building-company)  
 [Simple Angular SPA](https://github.com/AlterVar/Tea-angular)
 
 ## Languages
