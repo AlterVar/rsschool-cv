@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV](https://AlterVar.github.io/rsschool-cv/)
